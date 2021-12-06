@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **AmarAnandSr@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](AMAR.LEAFDEFT.COM)
+- 📄 Know about my experiences [My Portfolio](https://AMAR.LEAFDEFT.COM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
