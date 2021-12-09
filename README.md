@@ -14,8 +14,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranandsr&label=Profile%20views&color=0e75b6&style=flat" alt="amaranandsr" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/amaranandsr" target="blank"><img src="https://img.shields.io/twitter/follow/amaranandsr?logo=twitter&style=for-the-badge" alt="amaranandsr" /></a> </p>
+
 <a href="https://github.com/Amaranandsr">
-<img width="50%" align="right" alt="Github Image" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif" style="border-radius:5%"/></a>
+<img width="50%" align="right" alt="Github Image" src="file\img\boy.gif" style="border-radius:5%"/></a>
 
 - 🔭 I’m currently working on ***<code>Wellness E-Commerce Project</code>***
 
@@ -116,6 +117,7 @@
 
 
   <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=amaranandsr&theme=nord" align = "center"> -->
+
 
 
 
