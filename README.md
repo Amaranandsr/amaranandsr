@@ -14,20 +14,20 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranandsr&label=Profile%20views&color=0e75b6&style=flat" alt="amaranandsr" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/amaranandsr" target="blank"><img src="https://img.shields.io/twitter/follow/amaranandsr?logo=twitter&style=for-the-badge" alt="amaranandsr" /></a> </p>
+<a href="https://github.com/Amaranandsr">
+<img width="50%" align="right" alt="Github Image" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif" style="border-radius:5%"/></a>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on ***<code>Wellness E-commerce</code>***
+- 🔭 I’m currently working on ***<code>Wellness E-Commerce Project</code>***
 
 - 🌱 I’m currently learning *<code>MongoDB, Angular</code>*
 
-- 💬 Ask me about *<code>Tech in General or FrontEnd Development</code>*
+- 💬 Ask me about *Tech in General or FrontEnd Development*
 
 - 📫 How to reach me **<code>AmarAnandSr@gmail.com</code>** 
 
 - 📄 Know about my experiences **<code>[My Portfolio](https://AMAR.LEAFDEFT.COM)</code>**
 
-- ⚡ Fun fact **<code>I think I am funny</code>**
+- ⚡ Fun fact **<code>Never Joke with a Psychopath.</code>**
 
 ## Connect with me:
 
@@ -115,7 +115,7 @@
 
 
 
-  <img src = "https://activity-graph.herokuapp.com/graph?username=amaranandsr&theme=nord" align = "center">
+  <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=amaranandsr&theme=nord" align = "center"> -->
 
 
 
