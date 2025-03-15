@@ -15,9 +15,9 @@
 <a href="https://github.com/Amaranandsr">
 <img width="50%" align="right" alt="Github Image" src="file\img\boy.gif" style="border-radius:5%"/></a>
 
-- 🔭 I’m currently working on **_<code>Wellness E-Commerce Project</code>_**
+- 🔭 I’m currently working on **_<code>Tourism & Wellness Project</code>_**
 
-- 🌱 I’m currently learning _<code>MongoDB, Angular</code>_
+- 🌱 I’m currently learning _<code> Tourism & Wellness </code>_
 
 - 💬 Ask me about _Tech in General or FrontEnd Development_
 
