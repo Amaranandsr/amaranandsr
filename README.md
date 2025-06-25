@@ -1,12 +1,12 @@
 <!-- <h1 align="">Hi 👋, I'm Amar Anand</h1> -->
 
-<h1 align="c"> नमस्ते(Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ), I'm Amar Anand</h1>
+<h1 align="c"> नमस्ते(👏🏼), I'm Amar Anand</h1>
 
 <!-- [![MasterHead](file/img/cover.jpg)](https://github.com/Amaranandsr) -->
 
 **_I design and code beautifully simple things, and I love what I do._**
 
-![age](https://img.shields.io/badge/age-23-blue) ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) ![living](https://img.shields.io/badge/living-Varanasi-3c9)
+![age](https://img.shields.io/badge/age-27-blue) ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) ![living](https://img.shields.io/badge/living-Varanasi-3c9)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranandsr&label=Profile%20views&color=0e75b6&style=flat" alt="amaranandsr" /> </p> -->
 
@@ -15,13 +15,9 @@
 <a href="https://github.com/Amaranandsr">
 <img width="50%" align="right" alt="Github Image" src="file\img\boy.gif" style="border-radius:5%"/></a>
 
-- 🔭 I’m currently working on **_<code>Tourism & Wellness Project</code>_**
-
-- 🌱 I’m currently learning _<code> Tourism & Wellness </code>_
+- 🔭 I’m currently working and  learning🌱 on **_<code>Tourism & Wellness Project</code>_**
 
 - 💬 Ask me about _Tech in General or FrontEnd Development_
-
-- 📫 How to reach me **<code>AmarAnandSr@gmail.com</code>**
 
 - 📄 Know about my experiences **<code>[My Portfolio](https://AMAR.LEAFDEFT.COM)</code>**
 
